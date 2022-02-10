@@ -91,7 +91,7 @@ export default function App(props) {
 }
 ```
 ### The above code example simply render this.
-<img style="width: 100%;" src="./docs/assets/md-example.png" />
+<img style="width: 100%;" src="https://raw.githubusercontent.com/wever-org/wever/master/docs/assets/md-example.png" />
 
 
 
