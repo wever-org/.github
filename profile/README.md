@@ -7,10 +7,10 @@
 
 <div align="center">
 
-<a href="https://github.com/wever-org"><h2>@WEVER</h2></a>
+<a href="https://github.com/wever-org"><h1>@WEVER</h1></a>
 
 <a href="https://github.com/wever-org">
-<img alt="Wever logo" width="150px" src="https://media.discordapp.net/attachments/939851406075134013/941567043902251038/Picsart_22-02-11_11-00-38-957.png"/>
+<img alt="Wever logo" width="120px" src="https://media.discordapp.net/attachments/939851406075134013/941567043902251038/Picsart_22-02-11_11-00-38-957.png"/>
 </a>
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/)
