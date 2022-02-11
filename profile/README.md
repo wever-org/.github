@@ -7,13 +7,13 @@
 
 <div align="center">
 
-<a href="https://github.com/wever-org"><h1>@WEVER</h1></a>
+<a href="https://github.com/wever-org"><h1>@WEVER - a tool to built incredible User Interfaces</h1></a>
 
 <a href="https://github.com/wever-org">
 <img alt="Wever logo" width="120px" src="https://media.discordapp.net/attachments/939851406075134013/941567043902251038/Picsart_22-02-11_11-00-38-957.png"/>
 </a>
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?logo=license)](https://github.com/)
 &nbsp;
 [![npm version](https://img.shields.io/npm/v/xeonjs.svg?logo=npm&style=flat&label=NPM%20Package)](https://www.npmjs.com/package)
 &nbsp;
