@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<a href="https://github.com/wever-org"><h1>@WEVER - a tool to built incredible User Interfaces</h1></a>
+<a href="https://github.com/wever-org"><h1>@WEVER - the modern technology to built incredible User Interfaces</h1></a>
 
 <a href="https://github.com/wever-org">
 <img alt="Wever logo" width="120px" src="https://media.discordapp.net/attachments/939851406075134013/941567043902251038/Picsart_22-02-11_11-00-38-957.png"/>
