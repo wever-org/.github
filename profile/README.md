@@ -5,12 +5,29 @@
 
 
 
-## [@WEVER]() &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/) [![npm version](https://img.shields.io/npm/v/xeonjs.svg?style=flat)](https://www.npmjs.com/package)
+<div align="center">
+
+<a href="https://github.com/wever-org"><h2>@WEVER</h2></a>
+
+<a href="https://github.com/wever-org">
+<img alt="Wever logo" width="150px" src="https://media.discordapp.net/attachments/939851406075134013/941567043902251038/Picsart_22-02-11_11-00-38-957.png"/>
+</a>
+
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/)
+&nbsp;
+[![npm version](https://img.shields.io/npm/v/xeonjs.svg?logo=npm&style=flat&label=NPM%20Package)](https://www.npmjs.com/package)
+&nbsp;
+[![Discord](https://img.shields.io/discord/937750444330065920.svg?logo=discord&logoColor=fff&label=Discord&color=7389d8)](https://discord.gg/hErrdSrmc3)
 
 **A fully customizable, flexible, declarative,
 component-based JavaScript framework & library to build
 complex and incredible UI (User Interface).**
 
+</div>
+
+<hr />
+
+## Overview
 It makes developing web-applications **easy, fast &
 painless**. It allows you to create component view in
 your application and easily manage them.
